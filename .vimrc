@@ -37,7 +37,7 @@ if has("syntax")
  syntax on
 endif
 " 컬러 스킴 사용
-"colorscheme jellybeans
+colorscheme jellybeans
 
 
 
