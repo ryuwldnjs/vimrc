@@ -3,6 +3,7 @@
 
 # 사용법
 https://blog.naver.com/ryu_eclipse/222085223147
+
 +) 기본적으로 vim과 git이 깔려있어야 한다.
 +) 복붙이 안된다면 Shitf+Insert 사용
 
